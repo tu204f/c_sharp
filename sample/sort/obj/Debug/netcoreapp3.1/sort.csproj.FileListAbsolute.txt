@@ -1,0 +1,14 @@
+D:\work\git\c_sharp\sample\sort\bin\Debug\netcoreapp3.1\sort.exe
+D:\work\git\c_sharp\sample\sort\bin\Debug\netcoreapp3.1\sort.deps.json
+D:\work\git\c_sharp\sample\sort\bin\Debug\netcoreapp3.1\sort.runtimeconfig.json
+D:\work\git\c_sharp\sample\sort\bin\Debug\netcoreapp3.1\sort.runtimeconfig.dev.json
+D:\work\git\c_sharp\sample\sort\bin\Debug\netcoreapp3.1\sort.dll
+D:\work\git\c_sharp\sample\sort\bin\Debug\netcoreapp3.1\sort.pdb
+D:\work\git\c_sharp\sample\sort\obj\Debug\netcoreapp3.1\sort.csproj.AssemblyReference.cache
+D:\work\git\c_sharp\sample\sort\obj\Debug\netcoreapp3.1\sort.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\git\c_sharp\sample\sort\obj\Debug\netcoreapp3.1\sort.AssemblyInfoInputs.cache
+D:\work\git\c_sharp\sample\sort\obj\Debug\netcoreapp3.1\sort.AssemblyInfo.cs
+D:\work\git\c_sharp\sample\sort\obj\Debug\netcoreapp3.1\sort.csproj.CoreCompileInputs.cache
+D:\work\git\c_sharp\sample\sort\obj\Debug\netcoreapp3.1\sort.dll
+D:\work\git\c_sharp\sample\sort\obj\Debug\netcoreapp3.1\sort.pdb
+D:\work\git\c_sharp\sample\sort\obj\Debug\netcoreapp3.1\sort.genruntimeconfig.cache
