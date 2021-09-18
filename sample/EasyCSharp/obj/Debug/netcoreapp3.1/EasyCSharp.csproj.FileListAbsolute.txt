@@ -1,0 +1,14 @@
+D:\work\git\c_sharp\sample\EasyCSharp\bin\Debug\netcoreapp3.1\EasyCSharp.exe
+D:\work\git\c_sharp\sample\EasyCSharp\bin\Debug\netcoreapp3.1\EasyCSharp.deps.json
+D:\work\git\c_sharp\sample\EasyCSharp\bin\Debug\netcoreapp3.1\EasyCSharp.runtimeconfig.json
+D:\work\git\c_sharp\sample\EasyCSharp\bin\Debug\netcoreapp3.1\EasyCSharp.runtimeconfig.dev.json
+D:\work\git\c_sharp\sample\EasyCSharp\bin\Debug\netcoreapp3.1\EasyCSharp.dll
+D:\work\git\c_sharp\sample\EasyCSharp\bin\Debug\netcoreapp3.1\EasyCSharp.pdb
+D:\work\git\c_sharp\sample\EasyCSharp\obj\Debug\netcoreapp3.1\EasyCSharp.csproj.AssemblyReference.cache
+D:\work\git\c_sharp\sample\EasyCSharp\obj\Debug\netcoreapp3.1\EasyCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\git\c_sharp\sample\EasyCSharp\obj\Debug\netcoreapp3.1\EasyCSharp.AssemblyInfoInputs.cache
+D:\work\git\c_sharp\sample\EasyCSharp\obj\Debug\netcoreapp3.1\EasyCSharp.AssemblyInfo.cs
+D:\work\git\c_sharp\sample\EasyCSharp\obj\Debug\netcoreapp3.1\EasyCSharp.csproj.CoreCompileInputs.cache
+D:\work\git\c_sharp\sample\EasyCSharp\obj\Debug\netcoreapp3.1\EasyCSharp.dll
+D:\work\git\c_sharp\sample\EasyCSharp\obj\Debug\netcoreapp3.1\EasyCSharp.pdb
+D:\work\git\c_sharp\sample\EasyCSharp\obj\Debug\netcoreapp3.1\EasyCSharp.genruntimeconfig.cache
