@@ -1,0 +1,14 @@
+D:\work\git\c_sharp\sample\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.exe
+D:\work\git\c_sharp\sample\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.deps.json
+D:\work\git\c_sharp\sample\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.runtimeconfig.json
+D:\work\git\c_sharp\sample\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.runtimeconfig.dev.json
+D:\work\git\c_sharp\sample\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.dll
+D:\work\git\c_sharp\sample\PersonClass\bin\Debug\netcoreapp3.1\PersonClass.pdb
+D:\work\git\c_sharp\sample\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.csproj.AssemblyReference.cache
+D:\work\git\c_sharp\sample\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\git\c_sharp\sample\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.AssemblyInfoInputs.cache
+D:\work\git\c_sharp\sample\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.AssemblyInfo.cs
+D:\work\git\c_sharp\sample\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.csproj.CoreCompileInputs.cache
+D:\work\git\c_sharp\sample\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.dll
+D:\work\git\c_sharp\sample\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.pdb
+D:\work\git\c_sharp\sample\PersonClass\obj\Debug\netcoreapp3.1\PersonClass.genruntimeconfig.cache
