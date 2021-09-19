@@ -1,0 +1,14 @@
+D:\work\git\c_sharp\sample\Configure\bin\Debug\netcoreapp3.1\Configure.exe
+D:\work\git\c_sharp\sample\Configure\bin\Debug\netcoreapp3.1\Configure.deps.json
+D:\work\git\c_sharp\sample\Configure\bin\Debug\netcoreapp3.1\Configure.runtimeconfig.json
+D:\work\git\c_sharp\sample\Configure\bin\Debug\netcoreapp3.1\Configure.runtimeconfig.dev.json
+D:\work\git\c_sharp\sample\Configure\bin\Debug\netcoreapp3.1\Configure.dll
+D:\work\git\c_sharp\sample\Configure\bin\Debug\netcoreapp3.1\Configure.pdb
+D:\work\git\c_sharp\sample\Configure\obj\Debug\netcoreapp3.1\Configure.csproj.AssemblyReference.cache
+D:\work\git\c_sharp\sample\Configure\obj\Debug\netcoreapp3.1\Configure.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\git\c_sharp\sample\Configure\obj\Debug\netcoreapp3.1\Configure.AssemblyInfoInputs.cache
+D:\work\git\c_sharp\sample\Configure\obj\Debug\netcoreapp3.1\Configure.AssemblyInfo.cs
+D:\work\git\c_sharp\sample\Configure\obj\Debug\netcoreapp3.1\Configure.csproj.CoreCompileInputs.cache
+D:\work\git\c_sharp\sample\Configure\obj\Debug\netcoreapp3.1\Configure.dll
+D:\work\git\c_sharp\sample\Configure\obj\Debug\netcoreapp3.1\Configure.pdb
+D:\work\git\c_sharp\sample\Configure\obj\Debug\netcoreapp3.1\Configure.genruntimeconfig.cache
