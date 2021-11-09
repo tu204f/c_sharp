@@ -1,0 +1,14 @@
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\bin\Debug\netcoreapp3.1\ConsoleRead.exe
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\bin\Debug\netcoreapp3.1\ConsoleRead.deps.json
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\bin\Debug\netcoreapp3.1\ConsoleRead.runtimeconfig.json
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\bin\Debug\netcoreapp3.1\ConsoleRead.runtimeconfig.dev.json
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\bin\Debug\netcoreapp3.1\ConsoleRead.dll
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\bin\Debug\netcoreapp3.1\ConsoleRead.pdb
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\obj\Debug\netcoreapp3.1\ConsoleRead.csproj.AssemblyReference.cache
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\obj\Debug\netcoreapp3.1\ConsoleRead.GeneratedMSBuildEditorConfig.editorconfig
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\obj\Debug\netcoreapp3.1\ConsoleRead.AssemblyInfoInputs.cache
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\obj\Debug\netcoreapp3.1\ConsoleRead.AssemblyInfo.cs
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\obj\Debug\netcoreapp3.1\ConsoleRead.csproj.CoreCompileInputs.cache
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\obj\Debug\netcoreapp3.1\ConsoleRead.dll
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\obj\Debug\netcoreapp3.1\ConsoleRead.pdb
+D:\work\git\c_sharp\sample\Chapter4\ConsoleRead\obj\Debug\netcoreapp3.1\ConsoleRead.genruntimeconfig.cache
